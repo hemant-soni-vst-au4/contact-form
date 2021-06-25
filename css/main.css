@@ -354,27 +354,28 @@ footer {
   font-size: 20px;
   padding-bottom: 20px;
 }
- .footer-form label {
+
+.footer-form label {
   font-size: 20px;
- }
- .footer-form input {
+}
+
+.footer-form input {
   margin: 8px 0 8px 0;
   width: 28vw;
   height: 5vh;
   border-radius: 7px;
- }
+}
 
- .footer-form #description {
-    height: 20vh;
- }
+.footer-form #description {
+  height: 20vh;
+}
 
-
- .footer-form button {
-   margin-top: 5px;
-   width: 7vw;
-   height: 5vh;
-   background-color: #ff6b00;
-   color: white;
-   border: 0px;
-   font-size: 15px;
- }
+.footer-form button {
+  margin-top: 5px;
+  width: 7vw;
+  height: 5vh;
+  background-color: #ff6b00;
+  color: white;
+  border: 0;
+  font-size: 15px;
+}
