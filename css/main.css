@@ -326,6 +326,47 @@ li {
   list-style: inside url("../media/svg/circle.svg");
 }
 
+footer {
+  background-color: rgb(28, 26, 25);
+  color: white;
+  border-top: 1px solid rgb(255, 107, 0);
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-form {
+  margin-top: 5vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 28vw;
+}
+
+.footer-form h3 {
+  padding: 20px;
+  color: #ff6b00;
+  font-size: 30px;
+}
+
+.footer-form p {
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+ .footer-form label {
+  font-size: 20px;
+ }
+ .footer-form input {
+  margin: 8px 0 8px 0;
+  width: 28vw;
+  height: 5vh;
+  border-radius: 7px;
+ }
+
+ .footer-form #description {
+    height: 20vh;
+ }
 
 
  .footer-form button {
