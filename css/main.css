@@ -325,3 +325,15 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+
+
+ .footer-form button {
+   margin-top: 5px;
+   width: 7vw;
+   height: 5vh;
+   background-color: #ff6b00;
+   color: white;
+   border: 0px;
+   font-size: 15px;
+ }
