@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse!
+# Portfolio!
 
-> In this project, I have to set up a "Hello world" repository. No complex coding is required for this exercise. My goal is to master all of the tools and best practices I learned about in previous steps
+> This is a portfolio page where I have to create an contact form using Html and Css.
 
 
 ## Built With
@@ -15,7 +15,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-- clone the repo `https://github.com/hemant-soni-vst-au4/Hello`
+- clone the repo `https://github.com/hemant-soni-vst-au4/contact-form`
 - Open the `index.html` file in browser
 
 
@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/hemant-soni-vst-au4/Hello/issues/).
+Feel free to check the [issues page](https://github.com/hemant-soni-vst-au4/contact-form/issues/).
 
 ## Show your support
 
