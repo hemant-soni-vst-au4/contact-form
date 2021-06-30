@@ -356,15 +356,9 @@ footer {
 }
 
 .footer-form label {
-  font-size: 20px;
-}
-
-.footer-form input {
-  margin: 8px 0 8px 0;
-  width: 28vw;
-  height: 5vh;
-  border-radius: 7px;
-}
+      font-size: 20px;
+ 
+  }
 
 .footer-form #description {
   height: 20vh;
@@ -378,4 +372,12 @@ footer {
   color: white;
   border: 0;
   font-size: 15px;
+}
+
+
+.footer-form input {
+  margin: 8px 0 8px 0;
+  width: 28vw;
+  height: 5vh;
+  border-radius: 7px;
 }
